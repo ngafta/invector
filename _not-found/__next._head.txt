@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[23840,["/_next/static/chunks/313b08a3c02ada0d.js","/_next/static/chunks/7f00ce0f3a5c3f10.js","/_next/static/chunks/df749863b46bb8de.js"],"ViewportBoundary"]
+4:I[23840,["/_next/static/chunks/313b08a3c02ada0d.js","/_next/static/chunks/7f00ce0f3a5c3f10.js","/_next/static/chunks/df749863b46bb8de.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[25066,["/_next/static/chunks/313b08a3c02ada0d.js","/_next/static/chunks/7f00ce0f3a5c3f10.js","/_next/static/chunks/df749863b46bb8de.js"],"IconMark"]
+0:{"buildId":"8oufPKiCJZlWAQ8O0vqhD","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"InVector - Инвестиции на фондовом рынке"}],["$","meta","1",{"name":"description","content":"Начни зарабатывать на фондовом рынке вместе с нами"}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","link","4",{"rel":"apple-touch-icon","href":"/favicon.svg"}],["$","$L7","5",{}]]
